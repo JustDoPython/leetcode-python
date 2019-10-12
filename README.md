@@ -1,2 +1,13 @@
-# leetcode-python
-Python玩转LeetCode系列文章代码
+# Python玩转LeetCode
+Python 玩转 LeetCode 的学习之路
+
+- [Python 玩转 LeetCode 面试题](http://www.justdopython.com/category/#/Leetcode面试题)
+- [Leetcode 面试系列 第1天：Leetcode 89 - 格雷码](http://www.justdopython.com/2019/09/09/python-leetcode89-gary-code/)
+- [LeetCode 面试系列 第2天：No.136 - 只出现一次的数](http://www.justdopython.com/2019/09/13/python-leetcode136-single-number/)
+- [LeetCode 面试系列 第3天：No.67 - 二进制数求和](http://www.justdopython.com/2019/09/14/python-leetcode67-add-binary/)
+- [LeetCode 面试系列 第4天：No.202 - 快乐数](http://www.justdopython.com/2019/09/28/python-leetcode202-happy-number/)
+- [LeetCode 面试系列 第5天：No.204 - 统计质数](http://www.justdopython.com/2019/10/04/python-leetcode204-count-primes/)
+
+关注公众号：python技术，回复"python"一起学习交流
+
+![](http://favorites.ren/assets/images/python.jpg)
