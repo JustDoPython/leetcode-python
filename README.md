@@ -19,6 +19,8 @@ Python 玩转 LeetCode 的学习之路
 
 - [LeetCode面试系列 第8天：No.58 - 最后一个单词的长度](http://www.justdopython.com/2019/10/30/python-leetcode58-length-of-last-word/)
 
+- [LeetCode面试系列 第9天：No.345 - 反转字符串中的元音字母](http://www.justdopython.com/2019/11/13/leetcode345-reverse-vowels-of-a-string/)
+
 
 
 关注公众号：python技术，回复"python"一起学习交流
