@@ -21,6 +21,7 @@ Python 玩转 LeetCode 的学习之路
 
 - [LeetCode面试系列 第9天：No.345 - 反转字符串中的元音字母](http://www.justdopython.com/2019/11/13/leetcode345-reverse-vowels-of-a-string/)
 
+- [LeetCode面试系列 第10天：No.976 - 三角形的最大周长](http://www.justdopython.com/2019/11/20/leetcode976-largest-perimeter-triangle/)
 
 
 关注公众号：python技术，回复"python"一起学习交流
