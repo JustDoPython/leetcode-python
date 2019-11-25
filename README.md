@@ -23,6 +23,10 @@ Python 玩转 LeetCode 的学习之路
 
 - [LeetCode面试系列 第10天：No.976 - 三角形的最大周长](http://www.justdopython.com/2019/11/20/leetcode976-largest-perimeter-triangle/)
 
+- [LeetCode面试系列 第12天：No.977 - 有序数组的平方](http://www.justdopython.com/2019/11/25/python-leetcode977-squares-of-a-sorted-array/)
+
+- [LeetCode面试系列 第11天：No.645 - 错误的集合](http://www.justdopython.com/2019/11/25/python-leetcode645-set-mismatch/)
+
 
 关注公众号：python技术，回复"python"一起学习交流
 
